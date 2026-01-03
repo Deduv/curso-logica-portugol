@@ -4,9 +4,9 @@ Repositório criado para organizar meus exercícios de lógica de programação 
 ## 📂 Organização
 Os exercícios estão divididos por módulos:
 
-* [x] **01-estrutura-sequencial:** Exercícios de entrada, processamento e saída.
-* [ ] **02-estrutura-condicional:** Próxima etapa.
-* [ ] **03-estruturas-repetitivas:** Planejado.
+* [x] **01-estrutura-sequencial:** 
+* [x] **02-estrutura-condicional:** 
+* [ ] **03-estruturas-repetitivas:** 
 
 ## 🛠️ Ferramentas
 * Sistema: Linux Mint
